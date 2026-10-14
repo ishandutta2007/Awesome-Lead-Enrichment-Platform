@@ -66,6 +66,7 @@ The B2B lead enrichment market contains enterprise database leaders as well as f
 | **[FullEnrich](https://fullenrich.com/)** | Multi-vendor waterfall enrichment engine for maximizing work email & mobile phone match rates. | **~$15M Valuation** (~$3M ARR) | $29 / month (Starter) | Free plan (50 enrichment credits upon signup) |
 | **[Dropcontact](https://www.dropcontact.com/)** | Algorithmic, GDPR-compliant B2B email finder and CRM auto-cleaning solution. | **~$12M Valuation** (~$2M ARR) | €24 / month (Starter) | Free trial (100 free enrichment credits) |
 | **[Datagma](https://datagma.com/)** | Web scraping & API-based B2B enrichment platform for contact & social data. | **~$5M Valuation** (~$1M ARR) | $39 / month (Discover) | Free plan (75 credits/month forever) |
+| **[looot](https://looot.ai/)** | Data API and MCP server: one API key for about 2,430 endpoints from 77 providers (email and phone finders, verification, company and people enrichment). | **Not disclosed** (private, early stage) | Pay per call from a prepaid balance (no subscription) | No free credits (catalog and per-call prices free to browse without an account) |
 
 ---
 
